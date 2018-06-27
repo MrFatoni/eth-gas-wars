@@ -1,0 +1,20 @@
+{
+  "privateKey": "c63a2e8d89a0d19d82e0e5109a01097a9f33dec80edd2f1de33e4b5dda217644",
+  "addressFrom": "0x32afb4Eb4A87702F662EbdC1eFd1098B79E88bE0",
+  "addressTo": "0x8264849fE6bD6A864c66B9e4C3A8a96Ad80428fA",
+  "startGasPrice": "150",
+  "maxGasPrice": "1000",
+  "gasLimit": "21000",
+  "increment": "50",
+  "value": "0.01",
+  "startDate": {
+    "year": "2018",
+    "month": "6",
+    "date": "27",
+    "hour": "15",
+    "minute": "5",
+    "second": "30"
+  }
+}
+
+
